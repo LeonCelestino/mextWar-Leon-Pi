@@ -43,3 +43,12 @@ MEXT comes from Monbukagakusho, a Japanese scholarships that brought everyone to
   - Javascript
 - Server / Client
   - Gathering options
+
+
+### Who
+
+Marcelo - @wwwxkz
+https://www.linkedin.com/in/wwwxkz/
+
+Leonardo - @LeonCelestino
+https://www.linkedin.com/in/LeonCelestino
